@@ -26,3 +26,5 @@ describe("InputParametersCollercion", function(){
         expect(result).toEqual(jasmine.arrayContaining([1,3]));
     });
 });
+
+//second branch
