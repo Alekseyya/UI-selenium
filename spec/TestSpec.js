@@ -4,13 +4,15 @@ describe('FirstTest', function(){
     });
 });
 
-describe("ExpectedFunction", function(){
-    it("calls hello()", function(){
-        spyOn(obj,'hello');
-        hello2();
-        expect(hello()).toHaveBeenCalled();
-    });
-});
+// describe("ExpectedFunction", function(){
+//     it("calls hello()", function(){
+//         spyOn(obj,'hello');
+//         hello2();
+//         expect(hello()).toHaveBeenCalled();
+//     });
+// });
+
+//describe
 
 describe("InputParameters", function(){
     it("TestInputString", function(){
