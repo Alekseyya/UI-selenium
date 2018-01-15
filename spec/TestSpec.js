@@ -4,8 +4,7 @@ describe('FirstTest', function(){
     });
 });
 
-//master 
-
+//new master after merge
 
 describe("InputParameters", function(){
     it("TestInputString", function(){
